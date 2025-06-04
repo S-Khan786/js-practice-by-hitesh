@@ -1,7 +1,7 @@
 /* Data Types */
 
 // number => 2 to power 53
-// String => ""
+// string => ""
 // bigint
 // undefined
 // boolean => true / false
